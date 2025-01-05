@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **everything I can about robotics!**
 
-- 📫 How to reach me **jessicatingley@uri.edu**
+- 📫 How to reach me **jessicatingley @uri dot edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
